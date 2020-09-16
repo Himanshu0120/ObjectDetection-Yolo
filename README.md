@@ -14,4 +14,4 @@ The yolov3.weights file which is the pretrained weights file has to downloaded b
 * Download the yolov3.weights file and copy it in the same directory.
 * For object detection from live camera just run the LiveCam.py file.
 * For object detection from image set the path of the image which is to be selected in Image.py file and run the code.
-street.jpg
+
