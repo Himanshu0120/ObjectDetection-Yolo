@@ -9,4 +9,8 @@ This repository contains two python files-
 
 The yolov3.weights file which is the pretrained weights file has to downloaded before ruuning the code.
 
-*** Results
+### How to run the code-
+* Download or clone the repository.
+* Download the yolov3.weights file and copy it in the same directory.
+* For object detection from live camera just run the LiveCam.py file.
+* For object detection from image set the path of the image which is to be selected in Image.py file and run the code.
